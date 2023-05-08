@@ -34,6 +34,3 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mt2atakan&show_icons=true&theme=radical&locale=en&layout=compact" alt="mt2atakan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mt2atakan&show_icons=true&theme=radical&locale=en&count_private=true&hide=issues" alt="mt2atakan" /></p>
-
