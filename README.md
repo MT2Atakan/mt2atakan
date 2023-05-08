@@ -2,7 +2,7 @@
 <h3 align="center">A Genius Logic Thinker and Social Retard</h3>
 <h4 align="center">Software Development Team Lead | Computer Engineer | Entrepreneur | Guitarist | Pianist | Philosopher | Idle Talker</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mt2atakan&margin-w=5" alt="mt2atakan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mt2atakan&margin-w=5" alt="mt2atakan" /></a> </p>
 
 - 🌍 For Further information look at my [personal website](https://kizilbey.com)
 
